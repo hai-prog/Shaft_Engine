@@ -1,0 +1,15 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 1" test cases in the current suite
+Test Method:		"LoginTests.testLoginSuccessfully"
+################################################################################################################################################
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/testData.json"". @20-12-2022 21:57:52.0334 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/testData.json"". @20-12-2022 21:57:52.0336 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/testData.json"". @20-12-2022 21:57:55.0924 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/testData.json"". @20-12-2022 21:57:55.0925 PM
+[ReportManager] Type "standard_user" into "Username". @20-12-2022 21:57:56.0543 PM
+[ReportManager] Type "secret_sauce" into "Password". @20-12-2022 21:57:57.0111 PM
+[ReportManager] Click "Login". @20-12-2022 21:57:57.0587 PM
+[ReportManager] Get current url "https://www.saucedemo.com/inventory.html". @20-12-2022 21:57:57.0636 PM
+[ReportManager] Verification Passed: The Browser URL is equal to "https://www.saucedemo.com/inventory.html". @20-12-2022 21:57:59.0138 PM
+[ReportManager] Successfully created attachment "Screenshot - 1671566278364_testLoginSuccessfully_ValidateBrowserAttribute_passed" @20-12-2022 21:57:59.0197 PM

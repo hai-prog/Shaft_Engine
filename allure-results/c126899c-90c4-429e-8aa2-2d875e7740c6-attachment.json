@@ -1,0 +1,16 @@
+{
+  "credentials": {
+    "standardUser": "standard_user",
+    "lockedOutUser": "locked_out_user",
+    "wrongPassword": "haidy",
+    "validPassword": "secret_sauce"
+                 },
+
+  "messages": {
+    "requiredUserName": "Epic sadface: Username is required",
+    "requiredPassword": "Epic sadface: Password is required",
+    "LockedOutUser": "Epic sadface: Sorry, this user has been locked out."
+  }
+
+
+}
